@@ -33,9 +33,8 @@ Circumstances may develop during the term where a change to the course outline i
 - Quality of technical components 
 - Quality / quantity of class participation 
 ## Grading
-80% Project work & development  
-10% In-class assignments  
-10% Research documentation / portfolio & professionalism
+90% Project work & development  
+10% In-class assignments Research documentation / portfolio & professionalism
 
 Projects for the final portfolio may be revised, the final grade will be a combination devised from the original and revised versions. Students will provide a description and list revisions made.
 
