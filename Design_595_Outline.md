@@ -1,6 +1,7 @@
 # Communication Design of Interactive Media I Design 595 | Fall 2019 Course Outline
 Instructor: Bryan Kulba - bryan@kobot.ca  
 Course website: [github.com/bryankulba/design595](https://github.com/bryankulba/design595)
+
 ## Course description — University of Alberta Calendar
 Design for information, education and instruction using multimedia, Navigation, interface design in the context of human-machine interaction. Complex information systems, project planning and development strategies.
 ## What you will get out of this course
@@ -31,7 +32,6 @@ Circumstances may develop during the term where a change to the course outline i
 - Proficiency and clarity of proposed response to the project brief 
 - Quality of technical components 
 - Quality / quantity of class participation 
-
 ## Grading
 80% Project work & development  
 10% In-class assignments  
@@ -40,7 +40,8 @@ Circumstances may develop during the term where a change to the course outline i
 Projects for the final portfolio may be revised, the final grade will be a combination devised from the original and revised versions. Students will provide a description and list revisions made.
 
 Portions of grades may be arrived at using non-mathematical means.
-
+## Fine Print
+In the event that there are adjustments to the course outline, projects, schedule or resources, the course website ([github.com/bryankulba/design595](https://github.com/bryankulba/design595)) should be considered the canonical reference.
 ## The grading system at the University of Alberta is as follows:
 A+ / A / A- = Excellent  
 B+ / B / B- = Good  
