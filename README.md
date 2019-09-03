@@ -23,6 +23,7 @@ TBA
 - [Codepen](https://codepen.io/) (sign up for your own account)
 
 ## Design Process and Research
+- [Writing a bio](https://99u.adobe.com/articles/64151/how-to-write-a-better-bio-professional-summary) 
 - [Design Better](https://www.designbetter.co/) - Great resource for app and product design
 - [DesignKit](http://designkit.org) - Human Centered Design Processes and Tutorials
 - [Designing Case Studies: Showcasing A Human-Centered Design Process](http://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)  
