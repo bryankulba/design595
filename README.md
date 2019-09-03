@@ -1,6 +1,6 @@
 # Design 595 - Fall 2019 - Course Files
 
-**University of Alberta**
+**University of Alberta**  
 **Instructor**: Bryan Kulba - [bryan@kobot.ca](mailto:bryan@kobot.ca)  
 
 # Project Documents
