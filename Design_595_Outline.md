@@ -64,4 +64,4 @@ Students require a GPA of 2.7 (B-) over all fall and winter courses to be promot
 
 Nothing in this course outline, syllabus or course web-site may override or contravene any Calendar regulation or GFC policy. In resolving any discrepancy, GFC policy and Calendar regulations will take precedence. (GFC 29 SEP 2003)
 
-[Please read VCD Student Information Handout.](vcd student info handout fall 2019.pdf)
+[Please read VCD Student Information Handout.](VCD_handout.pdf)

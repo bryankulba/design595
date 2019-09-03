@@ -8,7 +8,7 @@
 
 # Important Dates  
 ## Class
-**Portfolio Hand-in** - Monday, December 9 at 1pm
+**Portfolio Hand-in** - Monday, December 9 at 1pm  
 **Interviews** - Tuesday, December 17 from 1–4:45pm
 ## Project One
 TBA
