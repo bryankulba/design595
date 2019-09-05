@@ -30,6 +30,7 @@ TBA
 - [Minimum Viable Ethnography](https://medium.com/research-things/minimum-viable-ethnography-a047e9358df0#.r6cfia93r)
 - [Creating Successful Product Flows](https://medium.com/@ryanglasgow/creating-successful-product-flows-c41ffbce49a1#.gwnuwmgkz)
 - [User Experience for Product Designers](https://medium.com/looks-good-feels-good/user-experience-for-product-designers-e9fa621ce3bc#.dpl1j7p0l)
+- [Design a landing page](https://marketingexperiments.com/conversion-marketing/how-to-wireframe-a-landing-page)
 
 ## Fine Print
 In the event that there are adjustments to the course outline, projects, schedule or resources, the course website ([github.com/bryankulba/design595](https://github.com/bryankulba/design595)) should be considered the canonical reference.
