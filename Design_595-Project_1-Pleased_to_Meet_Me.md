@@ -13,6 +13,13 @@ For your first project, you will create a simple landing page that includes a we
 - Develop a design language that you'll use for the site (in XD)
 - Frame out all the content on html
 - Apply design to webpage using CSS
+## Things nice to see
+- considered approach to the typography
+- a non-default typeface
+- typographic structure using at least three levels of headings (h1, h2, h3)
+- integration of bulleted or ordered lists
+- use of illustration or icons
+- a small bit of animation
 ## Concepts
 - Basic HTML and CSS skills
 - Managing images and links on webpages
