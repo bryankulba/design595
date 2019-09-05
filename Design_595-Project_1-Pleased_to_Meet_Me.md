@@ -46,3 +46,4 @@ Tuesday, September 24 - Project Due
 [Web Typography](https://css-tricks.com/design-content-typography-first-look-type-nugget/)  
 [Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)  
 [Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)  
+[JPG vs PNG vs GIF vs SVG](https://uxdesign.cc/jpg-vs-png-vs-gif-vs-svg-aefeca89f61)
