@@ -12,7 +12,8 @@
 **Portfolio Hand-in** - Monday, December 9 at 1pm  
 **Interviews** - Tuesday, December 17 from 1–4:45pm
 ## Project One
-TBA
+**Project Assigned** - Thursday, September 5  
+**Project Due** - Tuesday, September 24  
 ## Project Two
 TBA
 ## Project Three
@@ -23,6 +24,9 @@ TBA
 ## Course Resources
 - [Codepen](https://codepen.io/) (sign up for your own account)
 
+## Videos
+- [Brad Frost Atomic Web Design](https://vimeo.com/179245570)
+
 ## Design Process and Research
 - [Writing a bio](https://99u.adobe.com/articles/64151/how-to-write-a-better-bio-professional-summary) 
 - [Design Better](https://www.designbetter.co/) - Great resource for app and product design
@@ -32,6 +36,7 @@ TBA
 - [Creating Successful Product Flows](https://medium.com/@ryanglasgow/creating-successful-product-flows-c41ffbce49a1#.gwnuwmgkz)
 - [User Experience for Product Designers](https://medium.com/looks-good-feels-good/user-experience-for-product-designers-e9fa621ce3bc#.dpl1j7p0l)
 - [Design a landing page](https://marketingexperiments.com/conversion-marketing/how-to-wireframe-a-landing-page)
+- [Atomic Web Design ebook](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 ## Fine Print
 In the event that there are adjustments to the course outline, projects, schedule or resources, the course website ([github.com/bryankulba/design595](https://github.com/bryankulba/design595)) should be considered the canonical reference.
