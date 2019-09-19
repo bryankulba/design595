@@ -13,7 +13,7 @@
 **Interviews** - Tuesday, December 17 from 1–4:45pm
 ## Project One
 **Project Assigned** - Thursday, September 5  
-**Project Due** - Tuesday, September 24  
+**Project Due** - Friday, September 27 at 5pm. 
 ## Project Two
 TBA
 ## Project Three

@@ -36,10 +36,11 @@ Zipped file of the website (html, css, images, etc)
 Learning reflection (1 page)  
 ## Dates
 Thursday, September 5 - Project Assigned  
-Tuesday, September 24 - Project Due  
+Friday, September 27 at 5pm - Project Due  
 
 **Project is worth 20% of your final mark**
 ## Handy Links 
+[Bryan's guide to floats, flex and grid](https://codepen.io/bryankulba/pen/mdbGoVp)
 [Writing a bio](https://99u.adobe.com/articles/64151/how-to-write-a-better-bio-professional-summary)  
 [Starting out with HTML and CSS](https://css-tricks.com/guides/beginner/)  
 [CSS Almanac (reference)](https://css-tricks.com/almanac/)
