@@ -37,3 +37,10 @@
 	- Website Goals
 	- Strategies to achieve goals
 	- Additional material (user personas, competitive analysis, specific research)
+
+## Planning and design
+???
+## Build
+???
+## Post-launch
+???
