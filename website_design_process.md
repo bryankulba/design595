@@ -51,7 +51,11 @@
 - [User Personas](https://www.usability.gov/how-to-and-tools/methods/personas.html)
 
 ## Planning and design
-???
+- Sitemap
+- User Experience Flow sketching
+- Wireframing
+- Visual direction development (Moodboard/style-tile/stylescape)
+- Content Gathering
 ## Build
 ???
 ## Post-launch
