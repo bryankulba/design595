@@ -5,7 +5,9 @@
 
 # Project Documents
 [Design 595 - Fall 2019 Course Outline](Design_595_Outline.md)  
-[Project 1 - Pleased to Meet Me](Design_595-Project_1-Pleased_to_Meet_Me.md)
+[Project 1 - Pleased to Meet Me](Design_595-Project_1-Pleased_to_Meet_Me.md)  
+[Project 2 - Landing an Impression](Design_595-Project_2-Landing_Page.md)
+
 
 # Important Dates  
 ## Class
