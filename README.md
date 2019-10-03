@@ -11,13 +11,17 @@
 
 # Important Dates  
 ## Class
-**Portfolio Hand-in** - Monday, December 9 at 1pm  
-**Interviews** - Tuesday, December 17 from 1–4:45pm
+Monday, December 9 at 1pm - Portfolio Hand-in    
+Tuesday, December 17 from 1–4:45pm - Interviews   
 ## Project One
-**Project Assigned** - Thursday, September 5  
-**Project Due** - Friday, September 27 at 5pm. 
+Thursday, September 5 - Project Assigned    
+Friday, September 27 at 5pm - Project Due   
 ## Project Two
-TBA
+Thursday, October 2 - Project assigned  
+Tuesday, October 8 - Hand in research process  
+Tuesday, October 15/Thursday, October 17 - Present strategy brief to client  
+Tuesday, October 22/Thursday, October 24 - Present planning deliverables to client  
+Thursday, October 31 - Project deliverables due 
 ## Project Three
 TBA
 
@@ -25,6 +29,8 @@ TBA
 
 ## Course Resources
 - [Codepen](https://codepen.io/) (sign up for your own account)
+- [Website Design Process](website_design_process)
+- [Sample Interview Questions](Interviewing.md)
 
 ## Videos
 - [Brad Frost Atomic Web Design](https://vimeo.com/179245570)
