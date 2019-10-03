@@ -12,7 +12,7 @@ Campers Village is sponsoring a winter marathon over a weekend and is looking fo
 ### Barista training night
 Client: The Grizzlar  
 [website](https://www.thegrizzlar.com/)  
-The Grizzlar is doing a series of one-night classes (every Wednesday over July/August) to teach people how to create espresso-based drinks. Users can choose the amount they pay for the evening which is a charitable donation to the Bissell Centre. The site should allow users to sign up, pick a night and choose how much they will donate. They must also be able to get a charitable tax-reciept.
+The Grizzlar is doing a series of one-night classes (every Wednesday over July/August) to teach people how to create espresso-based drinks. Users can choose the amount they pay for the evening which is a charitable donation to the Bissell Centre. The site should allow users to sign up, pick a night and choose how much they will donate. They must also be able to get a charitable tax-receipt.
 
 ### Skateboard facilitator training
 Client: Tigers Skate Club  
@@ -69,3 +69,22 @@ YESS is planning a family fun run (5km) for May of 2020 to raise money for their
 Client: Edmonton Heritage Festival  
 [website](https://www.heritagefest.ca/)  
 Heritage Days is looking for volunteers who can patrol the festival site and administer simple first aid. For the three days of the festival, there are morning and afternoon shifts available. Users should be able to sign up, express preference for certain shifts, upload their first aid certification and their shirt size for a volunteer t-shirt.
+
+
+
+| Project | Designer | Client |
+|:--|:--|:--|
+| Blood drive | Rebecca | Nicole |
+| Winter marathon | Kelsey | Wenbei |
+| Barista training night | Sofia | Breanne |
+| Skateboard facilitator training | Jenna | Rebecca |
+| Illustration conference volunteers | Breanne | Jenna |
+| Haircut models | Arlyssa | Kelsey |
+| Mental health cookie day | Jillian | Ryan |
+| Snowboard trip | Christopher | Kat |
+| Film festival submission | Nicole | Peter |
+| Home bicycle repair service | Jondrei | Jillian |
+| Conference speakers | Peter | Arlyssa |
+| Call for artists for residency | Ryan | Sofia |
+| Family fun run | Kat | Jondrei |
+| First Aid volunteers | Wenbei | Christopher |
