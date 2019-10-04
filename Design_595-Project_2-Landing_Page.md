@@ -60,7 +60,7 @@ You won't have access to all the brand materials of visual materials that you mi
 - Take your own photography
 
 ## Dates
-- Thursday, October 2 - Project assigned  
+- Thursday, October 3 - Project assigned  
 - Tuesday, October 8 - Hand in research process 
 - Tuesday, October 15/Thursday, October 17 - Present strategy brief to client
 - Tuesday, October 22/Thursday, October 24 - Present planning deliverables to client

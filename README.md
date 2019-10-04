@@ -17,7 +17,7 @@ Tuesday, December 17 from 1–4:45pm - Interviews
 Thursday, September 5 - Project Assigned    
 Friday, September 27 at 5pm - Project Due   
 ## Project Two
-Thursday, October 2 - Project assigned  
+Thursday, October 3 - Project assigned  
 Tuesday, October 8 - Hand in research process  
 Tuesday, October 15/Thursday, October 17 - Present strategy brief to client  
 Tuesday, October 22/Thursday, October 24 - Present planning deliverables to client  
