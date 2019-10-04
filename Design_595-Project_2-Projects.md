@@ -72,19 +72,19 @@ Heritage Days is looking for volunteers who can patrol the festival site and adm
 
 
 
-| Project | Designer | Client |
-|:--|:--|:--|
-| Blood drive | Rebecca | Nicole |
-| Winter marathon | Kelsey | Wenbei |
-| Barista training night | Sofia | Breanne |
-| Skateboard facilitator training | Jenna | Rebecca |
-| Illustration conference volunteers | Breanne | Jenna |
-| Haircut models | Arlyssa | Kelsey |
-| Mental health cookie day | Jillian | Ryan |
-| Snowboard trip | Christopher | Kat |
-| Film festival submission | Nicole | Peter |
-| Home bicycle repair service | Jondrei | Jillian |
-| Conference speakers | Peter | Arlyssa |
-| Call for artists for residency | Ryan | Sofia |
-| Family fun run | Kat | Jondrei |
-| First Aid volunteers | Wenbei | Christopher |
+| Project | Designer | Client | Research Presentation October 15 | Research Presentation October 17 | Planning Presentation October 22 | Planning Presentation October 24 |
+|:--|:--|:--|:--|:--|:--|:--|
+| Blood drive | Rebecca | Nicole | 2:15:00 PM |  |  | 2:15:00 PM |
+| Winter marathon | Kelsey | Wenbei | 2:35:00 PM |  |  | 2:35:00 PM |
+| Barista training night | Sofia | Breanne | 2:55:00 PM |  |  | 2:55:00 PM |
+| Skateboard facilitator training | Jenna | Rebecca | 3:15:00 PM |  |  | 3:15:00 PM |
+| Illustration conference volunteers | Breanne | Jenna | 3:35:00 PM |  |  | 3:35:00 PM |
+| Haircut models | Arlyssa | Kelsey | 3:55:00 PM |  |  | 3:55:00 PM |
+| Mental health cookie day | Jillian | Ryan | 4:15:00 PM |  |  | 4:15:00 PM |
+| Snowboard trip | Christopher | Kat |  | 2:15 PM | 2:15:00 PM |  |
+| Film festival submission | Nicole | Peter |  | 2:35 PM | 2:35:00 PM |  |
+| Home bicycle repair service | Jondrei | Jillian |  | 2:55 PM | 2:55:00 PM |  |
+| Conference speakers | Peter | Arlyssa |  | 3:15 PM | 3:15:00 PM |  |
+| Call for artists for residency | Ryan | Sofia |  | 3:35 PM | 3:35:00 PM |  |
+| Family fun run | Kat | Jondrei |  | 3:55 PM | 3:55:00 PM |  |
+| First Aid volunteers | Wenbei | Christopher |  | 4:15 PM | 4:15:00 PM |  |

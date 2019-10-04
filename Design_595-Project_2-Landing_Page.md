@@ -68,6 +68,24 @@ You won't have access to all the brand materials of visual materials that you mi
 
 **Project is worth 30% of your final mark**
 
+### Presentation Schedule
+| Project | Designer | Client | Research Presentation October 15 | Research Presentation October 17 | Planning Presentation October 22 | Planning Presentation October 24 |
+|:--|:--|:--|:--|:--|:--|:--|
+| Blood drive | Rebecca | Nicole | 2:15:00 PM |  |  | 2:15:00 PM |
+| Winter marathon | Kelsey | Wenbei | 2:35:00 PM |  |  | 2:35:00 PM |
+| Barista training night | Sofia | Breanne | 2:55:00 PM |  |  | 2:55:00 PM |
+| Skateboard facilitator training | Jenna | Rebecca | 3:15:00 PM |  |  | 3:15:00 PM |
+| Illustration conference volunteers | Breanne | Jenna | 3:35:00 PM |  |  | 3:35:00 PM |
+| Haircut models | Arlyssa | Kelsey | 3:55:00 PM |  |  | 3:55:00 PM |
+| Mental health cookie day | Jillian | Ryan | 4:15:00 PM |  |  | 4:15:00 PM |
+| Snowboard trip | Christopher | Kat |  | 2:15 PM | 2:15:00 PM |  |
+| Film festival submission | Nicole | Peter |  | 2:35 PM | 2:35:00 PM |  |
+| Home bicycle repair service | Jondrei | Jillian |  | 2:55 PM | 2:55:00 PM |  |
+| Conference speakers | Peter | Arlyssa |  | 3:15 PM | 3:15:00 PM |  |
+| Call for artists for residency | Ryan | Sofia |  | 3:35 PM | 3:35:00 PM |  |
+| Family fun run | Kat | Jondrei |  | 3:55 PM | 3:55:00 PM |  |
+| First Aid volunteers | Wenbei | Christopher |  | 4:15 PM | 4:15:00 PM |  |
+
 ## Handy Links 
 ### Landing page design
 [Adobe XD landing page design tutorial](https://www.youtube.com/watch?v=KLCmXOdPw5o&feature=share)
