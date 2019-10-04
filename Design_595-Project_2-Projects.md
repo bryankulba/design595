@@ -74,17 +74,17 @@ Heritage Days is looking for volunteers who can patrol the festival site and adm
 
 | Project | Designer | Client | Research Presentation October 15 | Research Presentation October 17 | Planning Presentation October 22 | Planning Presentation October 24 |
 |:--|:--|:--|:--|:--|:--|:--|
-| Blood drive | Rebecca | Nicole | 2:15:00 PM |  |  | 2:15:00 PM |
-| Winter marathon | Kelsey | Wenbei | 2:35:00 PM |  |  | 2:35:00 PM |
-| Barista training night | Sofia | Breanne | 2:55:00 PM |  |  | 2:55:00 PM |
-| Skateboard facilitator training | Jenna | Rebecca | 3:15:00 PM |  |  | 3:15:00 PM |
-| Illustration conference volunteers | Breanne | Jenna | 3:35:00 PM |  |  | 3:35:00 PM |
-| Haircut models | Arlyssa | Kelsey | 3:55:00 PM |  |  | 3:55:00 PM |
-| Mental health cookie day | Jillian | Ryan | 4:15:00 PM |  |  | 4:15:00 PM |
-| Snowboard trip | Christopher | Kat |  | 2:15 PM | 2:15:00 PM |  |
-| Film festival submission | Nicole | Peter |  | 2:35 PM | 2:35:00 PM |  |
-| Home bicycle repair service | Jondrei | Jillian |  | 2:55 PM | 2:55:00 PM |  |
-| Conference speakers | Peter | Arlyssa |  | 3:15 PM | 3:15:00 PM |  |
-| Call for artists for residency | Ryan | Sofia |  | 3:35 PM | 3:35:00 PM |  |
-| Family fun run | Kat | Jondrei |  | 3:55 PM | 3:55:00 PM |  |
-| First Aid volunteers | Wenbei | Christopher |  | 4:15 PM | 4:15:00 PM |  |
+| Blood drive | Rebecca | Nicole | 2:15 |  |  | 2:15 |
+| Winter marathon | Kelsey | Wenbei | 2:35 |  |  | 2:35 |
+| Barista training night | Sofia | Breanne | 2:55 |  |  | 2:55 |
+| Skateboard facilitator training | Jenna | Rebecca | 3:15 |  |  | 3:15 |
+| Illustration conference volunteers | Breanne | Jenna | 3:35 |  |  | 3:35 |
+| Haircut models | Arlyssa | Kelsey | 3:55 |  |  | 3:55 |
+| Mental health cookie day | Jillian | Ryan | 4:15 |  |  | 4:15 |
+| Snowboard trip | Christopher | Kat |  | 2:15 | 2:15 |  |
+| Film festival submission | Nicole | Peter |  | 2:35 | 2:35 |  |
+| Home bicycle repair service | Jondrei | Jillian |  | 2:55 | 2:55 |  |
+| Conference speakers | Peter | Arlyssa |  | 3:15 | 3:15 |  |
+| Call for artists for residency | Ryan | Sofia |  | 3:35 | 3:35 |  |
+| Family fun run | Kat | Jondrei |  | 3:55 | 3:55 |  |
+| First Aid volunteers | Wenbei | Christopher |  | 4:15 | 4:15 |  |
