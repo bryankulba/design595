@@ -64,7 +64,7 @@ You won't have access to all the brand materials of visual materials that you mi
 - Tuesday, October 8 - Hand in research process 
 - Tuesday, October 15/Thursday, October 17 - Present strategy brief to client
 - Tuesday, October 22/Thursday, October 24 - Present planning deliverables to client
-- Thursday, October 31 - Project deliverables due
+- Tuesday, November 5 - Project deliverables due
 
 **Project is worth 30% of your final mark**
 
