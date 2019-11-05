@@ -20,7 +20,7 @@ The minimum expectation is that you will go from research, to sitemap/wireframes
 Obviously, since this is a class project, things will differ from an IRL project: 
 
 ## Client
-There will be no real client, so we're doing two things. The instructor and teaching assistant will the client contact for the project. In addition one classmate (selected at random) will also act as a client contact. You can ask either any questions and they can offer feedback on any stage of the process. Presentations will be made to the instructor and the student.
+There will be no real client, so we're doing two things. The instructor and teaching assistant will the client contact for the project.
 
 ## Research
 Since there's no real organization to interview, you can skip this stage of research but you can email a list of questions to the instructor you would like answers for.
@@ -56,7 +56,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 - Case Study (pdf)
 
 ## Stretch goal deliverables
-- Two moodboards for the client to choose from (instructor and student contact *will* decide which to proceed with)
+- Two moodboards for the client to choose from
 - Create a prototype for desktop and mobile
 - Make your own icons or illustrations
 - Take your own photography
