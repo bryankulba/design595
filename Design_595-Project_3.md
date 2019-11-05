@@ -1,4 +1,4 @@
-# Design 595 Project 3: UX Scramble
+# Design 595 Project 3: UX Challenge
 Creating a user experience
 
 ## Synopsis

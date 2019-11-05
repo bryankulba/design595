@@ -7,6 +7,8 @@
 [Design 595 - Fall 2019 Course Outline](Design_595_Outline.md)  
 [Project 1 - Pleased to Meet Me](Design_595-Project_1-Pleased_to_Meet_Me.md)  
 [Project 2 - Landing an Impression](Design_595-Project_2-Landing_Page.md)
+[Project 3 - UX Challenge](Design_595-Project_3.md)
+
 
 
 # Important Dates  
@@ -23,7 +25,11 @@ Tuesday, October 15/Thursday, October 17 - Present strategy brief to client
 Tuesday, October 22/Thursday, October 24 - Present planning deliverables to client  
 Tuesday, November 5 - Project deliverables due 
 ## Project Three
-TBA
+Tuesday, November 5 - Project assigned  
+Tuesday, November 12 - Email strategy brief 
+Tuesday, November 19/Thursday, November 21 - Present planning documents to client (sitemap, wireframes, moodboards)
+Tuesday, December 3 - Prototype walkthrough presentation
+Monday, December 9 - Final deliverables due (working prototype, case study)
 
 # Links
 
