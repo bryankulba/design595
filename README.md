@@ -28,8 +28,9 @@ Tuesday, November 5 - Project deliverables due
 Tuesday, November 5 - Project assigned  
 Tuesday, November 12 - Email strategy brief 
 Tuesday, November 19/Thursday, November 21 - Present planning documents to client (sitemap, wireframes, moodboards)
-Tuesday, December 3 - Prototype walkthrough presentation
+Thursday, December 5 - Prototype walkthrough presentation
 Monday, December 9 - Final deliverables due (working prototype, case study)
+Tuesday, December 17 - Interviews
 
 # Links
 
