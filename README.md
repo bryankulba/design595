@@ -1,36 +1,20 @@
-# Design 595 - Fall 2019 - Course Files
+# Design 595 - Fall 2020 - Course Files
 
 **University of Alberta**  
 **Instructor**: Bryan Kulba - [bryan@kobot.ca](mailto:bryan@kobot.ca)  
 
 # Project Documents
-[Design 595 - Fall 2019 Course Outline](Design_595_Outline.md)  
-[Project 1 - Pleased to Meet Me](Design_595-Project_1-Pleased_to_Meet_Me.md)  
-[Project 2 - Landing an Impression](Design_595-Project_2-Landing_Page.md)
-[Project 3 - UX Challenge](Design_595-Project_3.md)
+[Design 595 - Fall 2020 Course Outline](Design_595_Outline.md)  
 
 
 
 # Important Dates  
 ## Class
-Monday, December 9 at 1pm - Portfolio Hand-in    
-Tuesday, December 17 from 1–4:45pm - Interviews   
+Monday, December 14 at 1pm - Portfolio Hand-in    
+Tuesday, December 21 from 1–4:45pm - Interviews   
 ## Project One
-Thursday, September 5 - Project Assigned    
+Thursday, September 3 - Project Assigned    
 Friday, September 27 at 5pm - Project Due   
-## Project Two
-Thursday, October 3 - Project assigned  
-Tuesday, October 8 - Hand in research process  
-Tuesday, October 15/Thursday, October 17 - Present strategy brief to client  
-Tuesday, October 22/Thursday, October 24 - Present planning deliverables to client  
-Tuesday, November 5 - Project deliverables due 
-## Project Three
-Tuesday, November 5 - Project assigned  
-Tuesday, November 12 - Email strategy brief 
-Tuesday, November 19/Thursday, November 21 - Present planning documents to client (sitemap, wireframes, moodboards)
-Thursday, December 5 - Prototype walkthrough presentation
-Monday, December 9 - Final deliverables due (working prototype, case study)
-Tuesday, December 17 - Interviews
 
 # Links
 

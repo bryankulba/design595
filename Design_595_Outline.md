@@ -1,4 +1,4 @@
-# Communication Design of Interactive Media I Design 595 | Fall 2019 Course Outline  
+# Communication Design of Interactive Media I Design 595 | Fall 2020 Course Outline  
 Instructor: Bryan Kulba - bryan@kobot.ca  
 Course website: [github.com/bryankulba/design595](https://github.com/bryankulba/design595)
 
