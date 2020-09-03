@@ -47,6 +47,8 @@ Friday, September 25 at 5pm - Project Due
 [CSS Almanac (reference)](https://css-tricks.com/almanac/)
 [Web Typography](https://css-tricks.com/design-content-typography-first-look-type-nugget/)  
 [Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)  
+[BOOM. Happy type.
+](https://www.kobot.ca/blog/boom-happy-type/)   
 [Web Fonts](https://css-tricks.com/understanding-web-fonts-getting/)  
 [JPG vs PNG vs GIF vs SVG](https://uxdesign.cc/jpg-vs-png-vs-gif-vs-svg-aefeca89f61)   
 [HTML/CSS Starter File](https://codepen.io/bryankulba/pen/oNvdQbM)
