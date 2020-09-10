@@ -36,7 +36,7 @@ Zipped file of the website (html, css, images, etc)
 Learning reflection (1 page)  
 ## Dates
 Thursday, September 3 - Project Assigned  
-Friday, September 25 at 5pm - Project Due  
+Friday, October 2 at 5pm - Project Due  
 
 **Project is worth 20% of your final mark**
 ## Handy Links 
