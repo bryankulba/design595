@@ -14,7 +14,7 @@ Monday, December 14 at 1pm - Portfolio Hand-in
 Tuesday, December 21 from 1–4:45pm - Interviews   
 ## Project One
 Thursday, September 3 - Project Assigned   
-Friday, September 25 - Project Due 
+Friday, October 2 - Project Due 
 
 # Links
 
