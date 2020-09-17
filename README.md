@@ -7,6 +7,9 @@
 [Design 595 - Fall 2020 Course Outline](Design_595_Outline.md)  
 [Project 1 - Pleased to meet me](Design_595-Project_1-Pleased_to_Meet_Me.md)  
 
+# Assignments
+[Assignment 1 - Landing Page audit](Design_595-assignment_1.md)  
+
 
 # Important Dates  
 ## Class
