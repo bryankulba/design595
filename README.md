@@ -21,7 +21,7 @@ Thursday, September 3 - Project Assigned
 Friday, October 2 - Project Due 
 ## Project Two
 Thursday, October 8 - Project assigned  
-Tuesday, October 13 - Hand in research process 
+Tuesday, October 13 - Hand in research process   
 Tuesday, October 20- Present strategy brief to client  
 Tuesday, October 27 - Present planning deliverables to client  
 Thursday, November 5 - Project deliverables due 
