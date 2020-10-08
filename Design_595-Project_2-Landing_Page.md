@@ -51,12 +51,11 @@ You won't have access to all the brand materials of visual materials that you mi
 ## Deliverables
 - Research process outline (Describe what things you do as part of your research and a script of questions you would ask the interviewees)
 - Research report brief (definition of audience, goals, strategies, user personas) 
-- Planning documentation: user flow diagrams, wireframes, moodboards (one for each team member)
+- Planning documentation: user flow diagrams, wireframes, moodboards (two for each team member)
 - Clickable prototype (one from each team member)
 - Learning reflection (one from each team member)
 
 ## Stretch goal deliverables
-- Produce two moodboards for the client to choose from (each group member can decide/not decide to do this)
 - Create a prototype for desktop and mobile  
 - Make your own icons or illustrations  
 - Take your own photography  
@@ -64,7 +63,7 @@ You won't have access to all the brand materials of visual materials that you mi
 ## Dates
 - Thursday, October 8 - Project assigned  
 - Tuesday, October 13 - Hand in research process 
-- Tuesday, October 20- Present strategy brief to client
+- Tuesday, October 20- Present research brief to client
 - Tuesday, October 27 - Present planning deliverables to client
 - Thursday, November 5 - Project deliverables due 
 
