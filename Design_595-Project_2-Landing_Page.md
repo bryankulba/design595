@@ -56,37 +56,19 @@ You won't have access to all the brand materials of visual materials that you mi
 - Learning reflection (one from each team member)
 
 ## Stretch goal deliverables
-- Produce two moodboards for the client to choose from
+- Produce two moodboards for the client to choose from (each group member can decide/not decide to do this)
 - Create a prototype for desktop and mobile  
 - Make your own icons or illustrations  
 - Take your own photography  
 
 ## Dates
-<!-- - Thursday, October 8 - Project assigned  
-- Tuesday, October 15 - Hand in research process 
-- Tuesday, October 20/Thursday, October 22- Present strategy brief to client
-- Tuesday, October 27/Thursday, October 29 - Present planning deliverables to client
-- Tuesday, November 3 - Project deliverables due -->
+- Thursday, October 8 - Project assigned  
+- Tuesday, October 13 - Hand in research process 
+- Tuesday, October 20- Present strategy brief to client
+- Tuesday, October 27 - Present planning deliverables to client
+- Thursday, November 5 - Project deliverables due 
 
 **Project is worth 30% of your final mark**
-
-### Presentation Schedule
-| Project | Designer | Client | Research Presentation October 15 | Research Presentation October 17 | Planning Presentation October 22 | Planning Presentation October 24 |
-|:--|:--|:--|:--|:--|:--|:--|
-| Blood drive | Rebecca | Nicole | 2:15 |  |  | 2:15 |
-| Winter marathon | Kelsey | Wenbei | 2:35 |  |  | 2:35 |
-| Barista training night | Sofia | Breanne | 2:55 |  |  | 2:55 |
-| Skateboard facilitator training | Jenna | Rebecca | 3:15 |  |  | 3:15 |
-| Illustration conference volunteers | Breanne | Jenna | 3:35 |  |  | 3:35 |
-| Haircut models | Arlyssa | Kelsey | 3:55 |  |  | 3:55 |
-| Mental health cookie day | Jillian | Ryan | 4:15 |  |  | 4:15 |
-| Snowboard trip | Christopher | Kat |  | 2:15 | 2:15 |  |
-| Film festival submission | Nicole | Peter |  | 2:35 | 2:35 |  |
-| Home bicycle repair service | Jondrei | Jillian |  | 2:55 | 2:55 |  |
-| Conference speakers | Peter | Arlyssa |  | 3:15 | 3:15 |  |
-| Call for artists for residency | Ryan | Sofia |  | 3:35 | 3:35 |  |
-| Family fun run | Kat | Jondrei |  | 3:55 | 3:55 |  |
-| First Aid volunteers | Wenbei | Christopher |  | 4:15 | 4:15 |  |
 
 ## Handy Links 
 ### Landing page design
