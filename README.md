@@ -6,6 +6,7 @@
 # Project Documents
 [Design 595 - Fall 2020 Course Outline](Design_595_Outline.md)  
 [Project 1 - Pleased to meet me](Design_595-Project_1-Pleased_to_Meet_Me.md)  
+[Project 2 - Landing an impression](Design_595-Project_2-Landing_Page.md)  
 
 # Assignments
 [Assignment 1 - Landing Page audit](Design_595-assignment_1.md)  
@@ -18,6 +19,12 @@ Tuesday, December 21 from 1–4:45pm - Interviews
 ## Project One
 Thursday, September 3 - Project Assigned   
 Friday, October 2 - Project Due 
+## Project Two
+Thursday, October 8 - Project assigned  
+Tuesday, October 13 - Hand in research process 
+Tuesday, October 20- Present strategy brief to client
+Tuesday, October 27 - Present planning deliverables to client
+Thursday, November 5 - Project deliverables due 
 
 # Links
 
