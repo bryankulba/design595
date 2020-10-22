@@ -10,6 +10,7 @@
 
 # Assignments
 [Assignment 1 - Landing Page audit](Design_595-assignment_1.md)  
+[Assignment 2 - UI Scavenger hunt](Design_595-assignment_2.md)  
 
 
 # Important Dates  
