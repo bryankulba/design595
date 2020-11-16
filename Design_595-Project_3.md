@@ -64,7 +64,7 @@ Get photography from places like Unsplash or other free stock sources. For produ
 ## Dates
 - Tuesday, November 3 - Project assigned  
 - Thursday, November 12 - Email strategy brief   
-- Tuesday, November 17/Thursday, November 19 - Present planning documents to client (sitemap, wireframes, moodboards)  
+- Thursday, November 19 - Present planning documents to client (sitemap, wireframes, moodboards)  
 - Thursday, December 3 - Prototype walkthrough presentation  
 - Monday, December 14 - Final deliverables due (working prototype, case study)  
 
