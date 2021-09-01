@@ -5,7 +5,7 @@
 
 # Project Documents
 [Design 595 - Fall 2021 Course Outline](Design_595_Outline.md)  
-Project 1 - Pleased to meet me    
+[Project 1 - Pleased to meet me](Design_595-Project_1-Pleased_to_Meet_Me.md)    
 Project 2 - ???    
 Project 3 - ?!?!?    
 
@@ -18,7 +18,8 @@ TBD
 Tuesday, December 14 at 1pm - Portfolio Hand-in    
 Monday, December 20 from 1–4:45pm - Interviews   
 ## Project One
-Tuesday, September 7 - Project Assigned   
+Thursday, September 3 - Project Assigned   
+Tuesday, September 7- Bio Due (via email)
 Friday, October 1 - Project Due 
 <!-- ## Project Two
 Tuesday, September 28 - Project assigned  
@@ -37,7 +38,7 @@ Monday, December 14 - Final deliverables due (working prototype, case study) -->
 
 ## Course Resources
 - [Codepen](https://codepen.io/) (sign up for your own account)  
-- [Website Design Process](website_design_process)  
+- [Website Design Process](website_design_process.md)  
 - [Sample Interview Questions](Interviewing.md)  
 
 ## Videos
