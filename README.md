@@ -3,8 +3,12 @@
 **University of Alberta**  
 **Instructor**: Bryan Kulba - [bryan@kobot.ca](mailto:bryan@kobot.ca)  
 
+# Class Documents
+[Design 595 - Fall 2021 Course Outline](Design_595_Outline.md)   
+[VCD Student Information Handout](VCD_handout.pdf)   
+[Covid Info for Students](fall-2021-guide-on-campus-students.pdf)  
+
 # Project Documents
-[Design 595 - Fall 2021 Course Outline](Design_595_Outline.md)  
 [Project 1 - Pleased to meet me](Design_595-Project_1-Pleased_to_Meet_Me.md)    
 Project 2 - ???    
 Project 3 - ?!?!?    
