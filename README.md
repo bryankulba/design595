@@ -23,7 +23,7 @@ Tuesday, December 14 at 1pm - Portfolio Hand-in
 Monday, December 20 from 1–4:45pm - Interviews   
 ## Project One
 Thursday, September 3 - Project Assigned   
-Tuesday, September 7- Bio Due (via email)
+Tuesday, September 7- Bio Due (via email)  
 Friday, October 1 - Project Due 
 <!-- ## Project Two
 Tuesday, September 28 - Project assigned  

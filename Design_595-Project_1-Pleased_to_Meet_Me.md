@@ -36,7 +36,7 @@ Zipped file of the website (html, css, images, etc)
 Learning reflection (1 page)  
 ## Dates
 Thursday, September 3 - Project Assigned   
-Tuesday, September 7- Bio Due (via email)
+Tuesday, September 7- Bio Due (via email)  
 Friday, October 1 - Project Due 
 
 **Project is worth 20% of your final mark**
