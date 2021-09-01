@@ -4,24 +4,23 @@
 **Instructor**: Bryan Kulba - [bryan@kobot.ca](mailto:bryan@kobot.ca)  
 
 # Project Documents
-[Design 595 - Fall 2020 Course Outline](Design_595_Outline.md)  
-[Project 1 - Pleased to meet me](Design_595-Project_1-Pleased_to_Meet_Me.md)  
-[Project 2 - Landing an impression](Design_595-Project_2-Landing_Page.md)  
-[Project 3 - UX Challenge](Design_595-Project_3.md)  
+[Design 595 - Fall 2021 Course Outline](Design_595_Outline.md)  
+Project 1 - Pleased to meet me    
+Project 2 - ???    
+Project 3 - ?!?!?    
 
 # Assignments
-[Assignment 1 - Landing Page audit](Design_595-assignment_1.md)  
-[Assignment 2 - UI Scavenger hunt](Design_595-assignment_2.md)  
+TBD
 
 
 # Important Dates  
 ## Class
-Monday, December 14 at 1pm - Portfolio Hand-in    
-Tuesday, December 21 from 1–4:45pm - Interviews   
+Tuesday, December 14 at 1pm - Portfolio Hand-in    
+Monday, December 20 from 1–4:45pm - Interviews   
 ## Project One
 Thursday, September 3 - Project Assigned   
 Friday, October 2 - Project Due 
-## Project Two
+<!-- ## Project Two
 Thursday, October 8 - Project assigned  
 Tuesday, October 13 - Hand in research process   
 Tuesday, October 20- Present research brief to client  
@@ -32,14 +31,14 @@ Tuesday, November 3 - Project assigned
 Tuesday, November 12 - Email strategy brief 
 Tuesday, November 17/Thursday, November 19 - Present planning documents to client (sitemap, wireframes, moodboards)
 Thursday, December 3 - Prototype walkthrough presentation
-Monday, December 14 - Final deliverables due (working prototype, case study)
+Monday, December 14 - Final deliverables due (working prototype, case study) -->
 
 # Links
 
 ## Course Resources
-- [Codepen](https://codepen.io/) (sign up for your own account)
-- [Website Design Process](website_design_process)
-- [Sample Interview Questions](Interviewing.md)
+- [Codepen](https://codepen.io/) (sign up for your own account)  
+- [Website Design Process](website_design_process)  
+- [Sample Interview Questions](Interviewing.md)  
 
 ## Videos
 - [Brad Frost Atomic Web Design](https://vimeo.com/179245570)
