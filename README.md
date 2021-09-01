@@ -1,4 +1,4 @@
-# Design 595 - Fall 2020 - Course Files
+# Design 595 - Fall 2021 - Course Files
 
 **University of Alberta**  
 **Instructor**: Bryan Kulba - [bryan@kobot.ca](mailto:bryan@kobot.ca)  
@@ -18,14 +18,14 @@ TBD
 Tuesday, December 14 at 1pm - Portfolio Hand-in    
 Monday, December 20 from 1–4:45pm - Interviews   
 ## Project One
-Thursday, September 3 - Project Assigned   
-Friday, October 2 - Project Due 
+Tuesday, September 7 - Project Assigned   
+Friday, October 1 - Project Due 
 <!-- ## Project Two
-Thursday, October 8 - Project assigned  
-Tuesday, October 13 - Hand in research process   
-Tuesday, October 20- Present research brief to client  
-Tuesday, October 27 - Present planning deliverables to client  
-Thursday, November 5 - Project deliverables due 
+Tuesday, September 28 - Project assigned  
+Tuesday, October 5 - Hand in research process   
+Tuesday, October 19- Present research brief to client  
+Tuesday, October 26 - Present planning deliverables to client  
+Friday, November 5 - Project deliverables due 
 ## Project Three
 Tuesday, November 3 - Project assigned  
 Tuesday, November 12 - Email strategy brief 
