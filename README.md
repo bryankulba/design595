@@ -21,22 +21,11 @@ TBD
 ## Class
 Tuesday, December 14 at 1pm - Portfolio Hand-in    
 Monday, December 20 from 1–4:45pm - Interviews   
-## Project One
-Thursday, September 3 - Project Assigned   
-Tuesday, September 7- Bio Due (via email)  
-Friday, October 1 - Project Due 
-<!-- ## Project Two
-Tuesday, September 28 - Project assigned  
-Tuesday, October 5 - Hand in research process   
-Tuesday, October 19- Present research brief to client  
-Tuesday, October 26 - Present planning deliverables to client  
-Friday, November 5 - Project deliverables due 
-## Project Three
-Tuesday, November 3 - Project assigned  
-Tuesday, November 12 - Email strategy brief 
-Tuesday, November 17/Thursday, November 19 - Present planning documents to client (sitemap, wireframes, moodboards)
-Thursday, December 3 - Prototype walkthrough presentation
-Monday, December 14 - Final deliverables due (working prototype, case study) -->
+Project 1 - [see project document](Design_595-Project_1-Pleased_to_Meet_Me.md)  
+<!-- 
+Project Two - [see project document](Design_595-Project_2-Landing_Page.md)  
+Project Three - [see project document](Design_595-Project_3-UX_Challenge.md)  
+ -->
 
 # Links
 
