@@ -14,7 +14,7 @@ Project 2 - ???
 Project 3 - ?!?!?    
 
 # Assignments
-TBD
+[Assignment 1](Design_595-assignment_1.md)
 
 
 # Important Dates  
