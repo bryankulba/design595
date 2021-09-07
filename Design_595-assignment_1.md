@@ -18,16 +18,16 @@ For the website assigned below, perform a short assessment on the interface of t
 Spend no more than two hours, to be emailed to Bryan by end of Friday
 
 ## Websites
-Monika - https://usehyphen.com/
-Jerad - https://kieranparker.co.uk/
-Avery - https://humbleteam.com/
-Leslie - https://sendbird.com/
-Gina - https://ops.futurelondonacademy.co.uk/
-Jorden - https://www.brewbike.com/
-Abigail - https://www.weareunder.design/
-Chane - https://www.figma.academy/
-Christina - https://wealthfront.com/
-Jesse - https://joinpave.com/
-Lara - https://www.alike.health/
-Alysha - https://glossarie.xyz/
-Eva - https://louderthanten.com/
+Monika - https://usehyphen.com/   
+Jerad - https://kieranparker.co.uk/   
+Avery - https://humbleteam.com/   
+Leslie - https://sendbird.com/   
+Gina - https://ops.futurelondonacademy.co.uk/   
+Jorden - https://www.brewbike.com/   
+Abigail - https://www.weareunder.design/   
+Chane - https://www.figma.academy/   
+Christina - https://wealthfront.com/   
+Jesse - https://joinpave.com/   
+Lara - https://www.alike.health/   
+Alysha - https://glossarie.xyz/   
+Eva - https://louderthanten.com/   
