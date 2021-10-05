@@ -21,7 +21,7 @@ This will be a project where the early stages will be done in groups. All work f
 Obviously, since this is a class project, things will differ from an IRL project: 
 
 ## Client
-There will be no real client, so we're doing two things. The instructor and TA will the client contact for the project.  You can ask either any questions and they can offer feedback on any stage of the process. Presentations will be made to the instructor and the TA.
+There will be no real client, so we're doing two things. The instructor and TA will the client contact for the project.  You can ask either any questions and they can offer feedback on any stage of the process. Presentations for the research and planning will be made to the instructor and the TA.
 
 ## Research
 Since there's no real organization to interview, you can skip this stage of research but as part of the research process deliverable, you will include a list of questions you would ask if they were real.
@@ -39,7 +39,8 @@ You won't have access to all the brand materials of visual materials that you mi
 - Remember: a good landing page explains *what it is, how it works and what's in it for the user*. Keep it simple!
 - Define and design the entire process from start to finish, including any signup, registration or purchase process (ie: User Flow).
 - Author original text content for the website.
-- Though the brand is established, you are free to push the boundaries of it to develop this website. It should feel distinct from the brand but not appear completely separate and disconnected.
+- Though the brand is established, you are free to push the boundaries of it to develop this website. It should feel distinct from the brand but not appear completely separate and disconnected.  
+- You have two presentations in this project. Prepare and rehearse them, because in a real-project scenario, presentations are where you gain or lose the trust of the client — plus you're being marked on the presentation.  
 
 ## Don't’s
 - The organization already has a website. Don't reinvent or duplicate functionality on the project you are executing.
@@ -63,7 +64,7 @@ You won't have access to all the brand materials of visual materials that you mi
 ## Dates
 - Tuesday, October 5 - Project assigned    
 - Tuesday, October 12 - Hand in research process     
-- Thursday, October 21- Present research brief to client    
+- Thursday, October 21- Present research brief to client      
 - Thursday, November 4 - Present planning deliverables to client    
 - Tuesday, November 16 - Project deliverables due   
 
