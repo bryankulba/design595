@@ -64,7 +64,7 @@ You won't have access to all the brand materials of visual materials that you mi
 ## Dates
 - Tuesday, October 5 - Project assigned    
 - Tuesday, October 12 - Hand in research process     
-- Thursday, October 21- Present research brief to client      
+- Tuesday, October 19- Present research brief to client      
 - Thursday, November 4 - Present planning deliverables to client    
 - Tuesday, November 16 - Project deliverables due   
 
