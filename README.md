@@ -11,7 +11,7 @@
 # Project Documents
 [Project 1 - Pleased to meet me](Design_595-Project_1-Pleased_to_Meet_Me.md)    
 [Project 2 - Landing Page](Design_595-Project_2-Landing_Page.md)   
-Project 3 - ?!?!?    
+[Project 3 - UX Challenge ](Design_595-Project_3-UX_Challenge.md)
 
 # Assignments
 [Assignment 1](Design_595-assignment_1.md)  
