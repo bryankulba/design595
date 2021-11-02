@@ -70,15 +70,15 @@ Get photography from places like Unsplash or other free stock sources. For produ
 
 * Presentations will be happen over two days, students randomly divided:
 
-| November 25 | November 30|
-| ----- | ------ |
-| Jerad | Monika |
-| Jesse | Gina 
-| Abigail | Vivian |
-| Chane | Eva 
-| Leslie | Christina |
-| Alysha | Lara 
-| Jorden | Avery |
+| November 25 | November 30 | Presentation time |
+| ----- | ------ | ----- |
+| Jerad | Monika | 2:10 PM |
+| Jesse | Gina | 2:30 PM |
+| Abigail | Vivian | 2:50 PM |
+| Chane | Eva | 3:10 PM |
+| Leslie | Christina | 3:30 PM |
+| Alysha | Lara | 3:50 PM |
+| Jorden | Avery | 4:10 PM |
 
 **Project is worth 40% of your final mark**
 
