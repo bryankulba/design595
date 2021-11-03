@@ -20,7 +20,7 @@ The minimum expectation is that you will go from research, to sitemap/wireframes
 Obviously, since this is a class project, things will differ from an IRL project: 
 
 ## Client
-There will be no real client, so we're doing two things. The instructor and teaching assistant will the client contact for the project.
+There will be no real client, so we're doing two things. The instructor and teaching assistant will the client contact for the project. In addition one classmate (selected at random) will also act as a client contact. You can ask either any questions and they can offer feedback on any stage of the process. Presentations will be made to the instructor and the student.
 
 ## Research
 Since there's no real organization to interview, you can skip this stage of research but you can email a list of questions to the instructor you would like answers for.
@@ -82,6 +82,22 @@ Get photography from places like Unsplash or other free stock sources. For produ
 
 **Project is worth 40% of your final mark**
 
+| Project | Designer | Client |
+|  -----  | ----- | ------ |
+| Clothing Box | Jerad | Monika |
+| Food Surprise | Jesse | Gina |
+| Watch Startup | Abigail | Vivian |
+| Plant Lovers | Chane | Eva |
+| Custom Runners | Leslie | Christina |
+| Custom Runners | Alysha | Lara |
+| Plant Lovers | Jorden | Avery |
+| Clothing Box | Monika | Jerad |
+| Watch Startup | Gina | Jesse |
+| Coffee Subscription | Vivian | Abigail
+| Coffee Subscription | Eva | Chane |
+| Food Surprise | Christina | Leslie |
+| Pet Adoption | Lara | Alysha |
+| Pet Adoption | Avery | Jorden |
 
 ## Handy Links 
 - [Designing Case Studies: Showcasing A Human-Centered Design Process](http://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/)  
